@@ -12,4 +12,4 @@
 <p align="center">
 Currently learning Rust and Go Lang
 <p align="center">
-    <a href="https://discord.gg/K5CUwGAD">Discord Server</a>
+    <a href="https://discord.gg/VpNn6bJR">Discord Server</a>
