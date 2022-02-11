@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=vanisthevillain&color=grey">
 </p>tttt
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/941427092082544641.png"/>
+  <img src="https://media.tenor.co/videos/7458107a5afcebfa426d688c0bfa4df6/mp4"/>
 </p>
 <p align="center">
 Currently learning Rust and Go Lang
