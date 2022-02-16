@@ -4,7 +4,7 @@
 <p align="center">
     vanis#2335
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=vanisthevillain&color=grey">
+<img src="https://media.discordapp.net/attachments/796885516032278529/906950881520537660/image0-19.gif?width=450&height=305">
 </p>
 <p align="center">
 Currently learning Rust and Go Lang
