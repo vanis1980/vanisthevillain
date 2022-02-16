@@ -5,9 +5,6 @@
     vanis#2335
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=vanisthevillain&color=grey">
-</p>tttt
-    <p align="center">
-  <img src="https://e.rip/vanis"/>
 </p>
 <p align="center">
 Currently learning Rust and Go Lang
