@@ -4,7 +4,7 @@
 <p align="center">
     vanis#2335
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/796885516032278529/906950881520537660/image0-19.gif?width=450&height=305">
+<img src="https://media.discordapp.net/attachments/932315339293851719/941195947537473557/8C0747ED-969D-48D2-8334-293F29554910.gif">
 </p>
 <p align="center">
 Currently learning Rust and Go Lang
